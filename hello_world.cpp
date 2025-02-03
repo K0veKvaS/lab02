@@ -1,6 +1,8 @@
 #include <iostream>
-
+//error3
 int main() {
+
+    //error4
     std::string name;
     std::cout << "Enter your name: ";
     std::cin >> name;
